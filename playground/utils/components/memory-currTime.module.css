@@ -1,0 +1,8 @@
+.memory {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.memory-item {
+  text-align: end;
+}
